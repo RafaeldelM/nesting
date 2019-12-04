@@ -13,4 +13,5 @@ Deepnest employs a state of the art part layout engine with part-in-part placeme
 ## Task list
 - [x] Integrate Deepnest library
 - [ ] Create a basic command to manage the nesting
+- [ ] Create a basic component for Grasshopper
 
